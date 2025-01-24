@@ -2,4 +2,4 @@ Copy and paste the contents of main.py using your method of choice. Change the `
 
 Changing the `"data"` in the `os.makedirs()` call will change the directory to where the new annotations.txt files are saved.
 
-All of the distinct classes will be saved to `classes.txt`.
+All of the distinct classes will be saved to `classes.txt` (you can change this in line 31).

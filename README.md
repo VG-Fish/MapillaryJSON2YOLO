@@ -1,0 +1,1 @@
+Copy-and-paste the contents of main.py using your method of choice. Change the `directory` variable near the top of the Python file to the path towards the directory containing the Mapillary image annotations (should be json files).
